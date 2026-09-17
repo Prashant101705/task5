@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+}
+a{
+  color: black;
+  text-decoration: none;
+  margin: 5px;
+}
+.logo{
+  font-size: 28px;
+  position: relative;
+  left: 35px;
+}
+.navbar{
+  text-align: center;
+  display: inline-block;
+  width: 80vw;
+}
+.username{
+  border: 0px;
+  background-color: rgb(206, 235, 248);
+  color: rgb(29, 160, 212);
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+}
+.heading{
+  color: rgb(87, 196, 239);
+  font-size: 40px;
+}
+.bookingbutton{
+  color: white;
+  background-color: rgb(17, 156, 248);
+  border: 0cm;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+}
+.hero{
+  height: 90vh;
+  position: relative;
+}
+.leftside{
+  position: relative;
+  width: 40%;
+  top: 15vh;
+  left: 15vw;
+}
+.rightside{
+  position: absolute;
+  width: 40%;
+  top: 10vh;
+  right: 10vw; 
+}
+h1{
+  font-size: 40px;
+}
+
